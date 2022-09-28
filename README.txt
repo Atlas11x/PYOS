@@ -13,6 +13,7 @@ Command exit: haven't got an argument. For go out OS.
 
 fm:
 
+Commamd help: haven't got an arguments.
 Command clear*
 Command n: have an argument (str). For create new object in fyle system.
 Command fl: haven't got an argument. For check fyle list.
